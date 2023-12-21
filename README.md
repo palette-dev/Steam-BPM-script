@@ -39,7 +39,7 @@ Just launch the script after you [configured](#configuration) it, the rest happe
   <summary><b>Steams translation of the BPM window title doesn't contain <code>Big-Picture</code></b></summary>
   
   If Steams translation of the BPM window title in the language your Steam installation is set to doesn't contain `Big-Picture`,
-  you need to change the second variable (`bpm_check`) to whatever the name of the window 
+  you need to change the second variable (`bpm_check`) to whatever the name of the window is
 </details>
 
 ## Running on startup
@@ -58,7 +58,7 @@ This guide will show you how to setup this script up to run at startup
 3. Navigate to `HKEY_CURRENT_USER\Software\Microsoft\WindowsNT\CurrentVersion\Winlogon`
 4. Right click in the folder pane to the right, select `New > String Value` and name it `Shell`
 5. Right click on `Shell` and select `Modify`
-6. Type in `%USERPROFILE%\Desktop\Steam BPM.bat` and hit <kbd>Enter</kbd>
+6. Type in `%USERPROFILE%\Desktop\Steam_BPM.bat` and hit <kbd>Enter</kbd>
 7. ***Optional:*** [Setup Windows to automatically login to your account](https://www.lifewire.com/how-do-i-auto-login-to-windows-2626066)
 
 ## Why?
