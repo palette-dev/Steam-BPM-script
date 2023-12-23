@@ -22,7 +22,7 @@ set steam_exe="C:\Program Files (x86)\Steam\steam.exe"
 rem The title of the BPM window in the language you set Steam to
 set bpm_check="Big-Picture"
 
-echo Steam BPM script v1.0-dev by PaletteDev
+echo Steam BPM script v1.1 by PaletteDev
 echo Licensed under Apache-2.0
 echo -----------------------------------
 
