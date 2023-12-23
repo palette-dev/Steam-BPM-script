@@ -46,6 +46,7 @@ Just launch the script after you [configured](#configuration) it, the rest happe
 
 > [!NOTE]
 > Installing Windows, Drivers and Steam will not be covered here
+> 
 > Also, it is recommended to use a stripped down install of Windows (like [Tiny10/Tiny11](http://tinyxx.rf.gd/)) for a setup like this.
 
 This guide will show you how to setup this script to run at startup
