@@ -59,5 +59,5 @@ start "" "%WINDIR%\explorer.exe"
 exit
 
 :check_steam
-tasklist /fi "IMAGENAME eq steamwebhelper.exe" /fi "USERNAME eq %USERNAME%" /V
+tasklist /fi "IMAGENAME eq steam*" /fi "USERNAME eq %USERNAME%" /V
 exit /B
