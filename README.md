@@ -3,7 +3,7 @@
 This is a script that handles everything to launch Steam Big-Picture-Mode (BPM from now on) in Windows 10/11
 
 > [!IMPORTANT]
-> Even though this script theoretically works in every version of Windows since Windows NT 4, I will not support versions
+> Even though this script theoretically works in versions way earlier than Windows 7, I will not support versions
 > older than Windows 10, as Valve is going to drop support for Windows 7/8/8.1 on January 1st 2024
 
 ## Features
