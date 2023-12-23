@@ -45,12 +45,10 @@ Just launch the script after you [configured](#configuration) it, the rest happe
 ## Running on startup
 
 > [!NOTE]
-> It is recommended to use a stripped down install of Windows (like [Tiny10/Tiny11](http://tinyxx.rf.gd/)) for a setup like this.
-
-> [!NOTE]
 > Installing Windows, Drivers and Steam will not be covered here
+> Also, it is recommended to use a stripped down install of Windows (like [Tiny10/Tiny11](http://tinyxx.rf.gd/)) for a setup like this.
 
-This guide will show you how to setup this script up to run at startup
+This guide will show you how to setup this script to run at startup
 
 0. Make sure you have installed Steam and your graphics drivers
 1. Place the script on your desktop
